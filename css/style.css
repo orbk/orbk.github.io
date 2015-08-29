@@ -1,0 +1,127 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    color: #0065A9;
+    line-height: 24px;
+    text-transform: uppercase;
+    background-color: #fff;  
+    
+}
+.clearfix:after {
+    content: "";
+    clear: both;
+    display: block;
+}
+.content {
+    width: 800px;
+    margin: 0 auto;
+    background: #fff url(img/water.jpg) center 130px no-repeat;
+}
+h1 {
+    margin: 0;
+    margin-top: 30px;
+    padding: 10px 0px;
+    font-family: 'mr de haviland', cursive;
+    text-align: center;
+    font-size: 38px;
+    line-height: 46px;
+    font-weight: bold;
+    color: #0065A9;
+    text-shadow: 2px 2px 0px #fff, 4px 4px 0px rgba(0,0,0,0.2);
+}
+h2 {
+    margin-top: 0;
+    margin-bottom: 10px;
+    text-align: center;
+    font-family: 'Spinnaker', sans-serif;
+    font-size: 28px;
+    line-height: 46px;
+    color: rgb(237, 28, 36);
+    text-shadow: #ffffff 1px 1px 0px, rgba(0, 0, 0, 0.2) 3px 3px 0px;
+}
+h4 {
+    margin: 15px 0 5px;
+}
+header p {
+    margin: 0;
+    padding: 4px;
+    padding-left: 320px;
+}
+.column {
+    padding-left: 40px;
+    padding-top: 40px;
+    margin-top: 20px;
+    line-height: 30px;
+    font-size: 14px;
+}
+.content-left {
+    float: left;
+}
+.content-right {
+    float: right;
+}
+.time {
+    font-family: 'Spinnaker', sans-serif;
+    color: #000;
+    font-size: 18px;
+    line-height: 26px;
+}
+.phone {
+    margin-top: 20px;
+    font-family: 'Spinnaker', sans-serif;
+    font-style: italic;
+    font-size: 25px;
+    line-height: 45px;
+    color: rgb(237, 28, 36);
+    text-shadow: #ffffff 1px 1px 0px, rgba(0, 0, 0, 0.2) 3px 3px 0px;
+}
+.garanty img{
+    width: 130px;  
+    padding-left: 50px;
+    margin-bottom: 40px;
+}
+.price {
+    margin-bottom: 50px;
+    padding-right: 40px;
+    font-family: 'Spinnaker', sans-serif;
+    font-size: 30px;
+    line-height: 46px;
+    font-style: italic;
+    text-transform: none;
+    text-shadow: #ffffff 1px 1px 0px, rgba(0, 0, 0, 0.2) 3px 3px 0px;
+}
+.logo {
+    padding-left: 50px;
+    width: 250px; 
+}
+.advantages {
+    margin: 0;
+    padding: 0;
+    padding-top: 10px;
+    padding-right: 60px;
+}
+.advantages li {
+    text-align: left;
+    font-size: 14px;
+    padding:3px;
+    
+}
+.map {
+    min-height: 293px;   
+}
+footer {padding-bottom: 20px;}
+footer p {
+    text-transform: none;
+    font-weight: normal;
+    padding: 3px 0;
+    margin: 0;
+}
+.footer-phone {
+    padding: 40px 50px;
+    font-size: 30px;
+    line-height: 36px;
+    color: rgb(237, 28, 36);
+}
