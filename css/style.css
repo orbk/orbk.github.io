@@ -18,7 +18,7 @@ body {
 .content {
     width: 800px;
     margin: 0 auto;
-    background: #fff url(img/water.jpg) center 130px no-repeat;
+    background: #fff url(../img/water.jpg) center 130px no-repeat;
 }
 h1 {
     margin: 0;
